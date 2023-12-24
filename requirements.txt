@@ -1,0 +1,8 @@
+pdfplumber
+python-docx
+pandas
+streamlit
+matplotlib
+seaborn
+openpyxl
+protobuf
